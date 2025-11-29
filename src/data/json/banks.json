@@ -326,7 +326,7 @@
     },
     {
         "code": "119",
-        "name": "BANK RIAU KEPRI",
+        "name": "BANK RIAU KEPRI SYARIAH",
         "category": "BPD"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
         "code": "490",
-        "name": "BANK YUDHA BHAKTI",
+        "name": "BANK NEO COMMERCE",
         "category": "Swasta"
     },
     {
@@ -426,7 +426,7 @@
     },
     {
         "code": "046",
-        "name": "DIGIBANK",
+        "name": "DBS",
         "category": "Swasta"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
         "code": "213",
-        "name": "JENIUS",
+        "name": "BTPN",
         "category": "Swasta"
     },
     {
@@ -471,7 +471,7 @@
     },
     {
         "code": "023",
-        "name": "TMRW",
+        "name": "UOB",
         "category": "Swasta"
     }
 ]
