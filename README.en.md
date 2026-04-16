@@ -6,7 +6,7 @@
 
 [🇮🇩 Bahasa Indonesia](README.md) | [🇺🇸 English](README.en.md)
 
-**Laravel Indonesian Banks** is a comprehensive package providing a complete list of banks in Indonesia for your Laravel applications. This package is designed for ease of use, high performance, and flexibility.
+**Laravel Indonesian Banks** is a comprehensive package providing a complete list of banks in Indonesia for your Laravel applications (supporting Laravel 10, 11, 12, and 13). This package is designed for ease of use, high performance, and flexibility.
 
 ## Key Features
 

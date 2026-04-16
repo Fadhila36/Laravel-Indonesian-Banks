@@ -6,7 +6,7 @@
 
 [🇮🇩 Bahasa Indonesia](README.md) | [🇺🇸 English](README.en.md)
 
-**Laravel Indonesian Banks** adalah package komprehensif yang menyediakan data lengkap bank-bank di Indonesia untuk aplikasi Laravel Anda. Package ini dirancang untuk kemudahan penggunaan, performa tinggi, dan fleksibilitas.
+**Laravel Indonesian Banks** adalah package komprehensif yang menyediakan data lengkap bank-bank di Indonesia untuk aplikasi Laravel Anda (mendukung Laravel 10, 11, 12, dan 13). Package ini dirancang untuk kemudahan penggunaan, performa tinggi, dan fleksibilitas.
 
 ## Fitur Utama
 
