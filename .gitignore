@@ -1,1 +1,10 @@
 /vendor/
+/.idea/
+/.vscode/
+/.phpunit.result.cache
+/.phpstan-cache/
+/.pestphp-results.cache
+/build/
+.DS_Store
+composer.lock
+
