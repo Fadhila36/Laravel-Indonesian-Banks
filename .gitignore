@@ -5,6 +5,10 @@
 /.phpstan-cache/
 /.pestphp-results.cache
 /build/
+/coverage/
 .DS_Store
-composer.lock
+.env
+phpunit.xml
 
+# If you prefer to exclude composer.lock for libraries
+# composer.lock

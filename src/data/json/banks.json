@@ -5,6 +5,11 @@
         "category": "Swasta"
     },
     {
+        "code": "531",
+        "name": "AMAR BANK",
+        "category": "Swasta"
+    },
+    {
         "code": "947",
         "name": "BANK ALADIN SYARIAH",
         "category": "Syariah"
@@ -60,6 +65,11 @@
         "category": "BPD"
     },
     {
+        "code": "112",
+        "name": "BANK BPD DIY",
+        "category": "BPD"
+    },
+    {
         "code": "002",
         "name": "BANK BRI",
         "category": "BUMN"
@@ -70,14 +80,14 @@
         "category": "BUMN"
     },
     {
+        "code": "213",
+        "name": "BANK BTPN",
+        "category": "Swasta"
+    },
+    {
         "code": "547",
         "name": "BANK BTPN SYARIAH",
         "category": "Syariah"
-    },
-    {
-        "code": "441",
-        "name": "BANK BUKOPIN",
-        "category": "Swasta"
     },
     {
         "code": "076",
@@ -95,19 +105,24 @@
         "category": "Syariah"
     },
     {
+        "code": "949",
+        "name": "BANK CTBC INDONESIA",
+        "category": "Swasta"
+    },
+    {
         "code": "011",
         "name": "BANK DANAMON",
+        "category": "Swasta"
+    },
+    {
+        "code": "046",
+        "name": "BANK DBS INDONESIA",
         "category": "Swasta"
     },
     {
         "code": "501",
         "name": "BANK DIGITAL BCA (BLU)",
         "category": "Swasta"
-    },
-    {
-        "code": "111",
-        "name": "BANK DKI",
-        "category": "BPD"
     },
     {
         "code": "161",
@@ -145,9 +160,14 @@
         "category": "Swasta"
     },
     {
-        "code": "472",
-        "name": "BANK JASA JAKARTA",
-        "category": "Swasta"
+        "code": "111",
+        "name": "BANK JAKARTA",
+        "category": "BPD"
+    },
+    {
+        "code": "115",
+        "name": "BANK JAMBI",
+        "category": "BPD"
     },
     {
         "code": "113",
@@ -185,9 +205,9 @@
         "category": "BPD"
     },
     {
-        "code": "521",
-        "name": "BANK KB BUKOPIN SYARIAH",
-        "category": "Syariah"
+        "code": "484",
+        "name": "BANK KEB HANA INDONESIA",
+        "category": "Swasta"
     },
     {
         "code": "121",
@@ -265,8 +285,18 @@
         "category": "BPD"
     },
     {
+        "code": "945",
+        "name": "BANK NANO SYARIAH",
+        "category": "Syariah"
+    },
+    {
         "code": "503",
         "name": "BANK NATIONAL NOBU",
+        "category": "Swasta"
+    },
+    {
+        "code": "490",
+        "name": "BANK NEO COMMERCE",
         "category": "Swasta"
     },
     {
@@ -281,12 +311,22 @@
     },
     {
         "code": "028",
-        "name": "BANK OCBC NISP",
+        "name": "BANK OCBC",
+        "category": "Swasta"
+    },
+    {
+        "code": "033",
+        "name": "BANK OF AMERICA",
         "category": "Swasta"
     },
     {
         "code": "069",
         "name": "BANK OF CHINA",
+        "category": "Swasta"
+    },
+    {
+        "code": "146",
+        "name": "BANK OF INDIA INDONESIA",
         "category": "Swasta"
     },
     {
@@ -335,6 +375,11 @@
         "category": "Swasta"
     },
     {
+        "code": "472",
+        "name": "BANK SAQU INDONESIA",
+        "category": "Swasta"
+    },
+    {
         "code": "498",
         "name": "BANK SBI INDONESIA",
         "category": "Swasta"
@@ -347,6 +392,11 @@
     {
         "code": "153",
         "name": "BANK SINARMAS",
+        "category": "Swasta"
+    },
+    {
+        "code": "045",
+        "name": "BANK SMBC INDONESIA",
         "category": "Swasta"
     },
     {
@@ -380,9 +430,19 @@
         "category": "BPD"
     },
     {
-        "code": "451",
+        "code": "384",
         "name": "BANK SYARIAH INDONESIA (BSI)",
         "category": "Syariah"
+    },
+    {
+        "code": "405",
+        "name": "BANK SYARIAH NASIONAL",
+        "category": "Syariah"
+    },
+    {
+        "code": "023",
+        "name": "BANK UOB INDONESIA",
+        "category": "Swasta"
     },
     {
         "code": "566",
@@ -390,29 +450,14 @@
         "category": "Swasta"
     },
     {
-        "code": "405",
-        "name": "BANK VICTORIA SYARIAH",
-        "category": "Syariah"
-    },
-    {
         "code": "068",
         "name": "BANK WOORI SAUDARA",
-        "category": "Swasta"
-    },
-    {
-        "code": "490",
-        "name": "BANK NEO COMMERCE",
         "category": "Swasta"
     },
     {
         "code": "116",
         "name": "BPD ACEH SYARIAH",
         "category": "Syariah"
-    },
-    {
-        "code": "112",
-        "name": "BPD DIY",
-        "category": "BPD"
     },
     {
         "code": "115",
@@ -425,8 +470,13 @@
         "category": "Swasta"
     },
     {
-        "code": "046",
-        "name": "DBS",
+        "code": "950",
+        "name": "COMMONWEALTH BANK",
+        "category": "Swasta"
+    },
+    {
+        "code": "067",
+        "name": "DEUTSCHE BANK",
         "category": "Swasta"
     },
     {
@@ -435,13 +485,23 @@
         "category": "Swasta"
     },
     {
-        "code": "213",
-        "name": "BTPN",
+        "code": "032",
+        "name": "JP MORGAN CHASE",
         "category": "Swasta"
+    },
+    {
+        "code": "521",
+        "name": "KB BANK SYARIAH",
+        "category": "Syariah"
     },
     {
         "code": "459",
         "name": "KROM BANK",
+        "category": "Swasta"
+    },
+    {
+        "code": "042",
+        "name": "MUFG BANK",
         "category": "Swasta"
     },
     {
@@ -467,11 +527,6 @@
     {
         "code": "562",
         "name": "SUPERBANK",
-        "category": "Swasta"
-    },
-    {
-        "code": "023",
-        "name": "UOB",
         "category": "Swasta"
     }
 ]

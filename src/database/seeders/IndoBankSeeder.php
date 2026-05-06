@@ -11,7 +11,7 @@ namespace Fadhila36\IndonesianBanks\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Fadhila36\IndonesianBanks\Facades\IndonesianBank;
-use Illuminate\Support\Facades\DB;
+use Fadhila36\IndonesianBanks\Models\BankEloquent;
 
 class IndoBankSeeder extends Seeder
 {
@@ -22,15 +22,13 @@ class IndoBankSeeder extends Seeder
      */
     public function run()
     {
-        // Get Data
         $banks = IndonesianBank::getBanks();
 
-        // Convert Objects to Arrays
-        $data = array_map(function ($bank) {
-            return $bank->toArray();
-        }, $banks);
-
-        // Insert Data to Database
-        DB::table('banks')->insert($data);
+        foreach ($banks as $bank) {
+            BankEloquent::updateOrCreate(
+                ['code' => $bank->code],
+                $bank->toArray()
+            );
+        }
     }
 }

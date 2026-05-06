@@ -1,6 +1,7 @@
 # Laravel Indonesian Banks
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fadhila36/laravel-indonesian-banks.svg?style=flat-square)](https://packagist.org/packages/fadhila36/laravel-indonesian-banks)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/fadhila36/laravel-indonesian-banks/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/fadhila36/laravel-indonesian-banks/actions)
 [![Total Downloads](https://img.shields.io/packagist/dt/fadhila36/laravel-indonesian-banks.svg?style=flat-square)](https://packagist.org/packages/fadhila36/laravel-indonesian-banks)
 [![License](https://img.shields.io/packagist/l/fadhila36/laravel-indonesian-banks.svg?style=flat-square)](https://packagist.org/packages/fadhila36/laravel-indonesian-banks)
 
@@ -10,7 +11,7 @@
 
 ## Key Features
 
--   📦 **Complete Data**: Contains a list of banks in Indonesia along with bank codes (for inter-bank transfers).
+-   📦 **Complete Data**: Contains an up-to-date list of banks in Indonesia (Updated April 2026).
 -   🚀 **Lightweight & Fast**: Uses an optimized JSON file as the default data source, without burdening the database.
 -   🛠 **Flexible**: Provides Facade and Service for easy access.
 -   💾 **Database Option**: Provides migrations and Eloquent models if you wish to store data in your own database.

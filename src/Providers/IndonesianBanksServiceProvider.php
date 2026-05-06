@@ -40,7 +40,7 @@ class IndonesianBanksServiceProvider extends ServiceProvider
             ], 'indonesian-banks-config');
 
             $this->publishes([
-                __DIR__.'/../../src/database/migrations/' => database_path('migrations'),
+                __DIR__.'/../Database/Migrations/' => database_path('migrations'),
             ], 'indonesian-banks-migrations');
         }
     }

@@ -39,7 +39,7 @@ interface BankRepositoryInterface
      * Get banks by category.
      *
      * @param string $category
-     * @return array<int, Bank>
+     * @return array<int, \Fadhila36\IndonesianBanks\Models\Bank>
      */
     public function getByCategory(string $category): array;
 }
